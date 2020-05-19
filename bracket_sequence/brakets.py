@@ -1,4 +1,4 @@
-##
+## Write python code for verifying that brackets sequence is correct. E.g.: {[(}]) incorrect, {()[]} correct
 
 def bracket_string_verify(s):    
     q = []
